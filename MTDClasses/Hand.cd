@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MTDClasses.Hand">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="MTDClasses.Hand.EmptyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Hand.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EALQIAAAAAAQAggECAIAAAQgAABACAAAiAAAAgAAAAA=</HashCode>
+      <FileName>Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTDClasses.BoneYard">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="MTDClasses.BoneYard.EmptyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BoneYard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAQAhAECAIAAAAAAAAAAAAEAAgAAAAAEAA=</HashCode>
+      <FileName>BoneYard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MTDClasses.Domino">
+    <Position X="8.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQQIgEgACAAAEAAAAAAIAAAAAAAAAACBA=</HashCode>
+      <FileName>Domino.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MTDClasses.MexicanTrain">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>MexicanTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTDClasses.PlayerTrain">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAIAAgAAAAAAAAAAAAAAgAAAAAACCAAAA=</HashCode>
+      <FileName>PlayerTrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MTDClasses.Train">
+    <Position X="5.25" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAJCAAAAAAAAAIAECIAQAAQAAAAAAAoAgAAAAAAAAAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

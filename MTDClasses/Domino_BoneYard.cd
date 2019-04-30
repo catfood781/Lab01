@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MTDClasses.Domino">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQQIgEgACAAAEAAAAAAIAAAAAAAAAACBA=</HashCode>
+      <FileName>Domino.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MTDClasses.BoneYard">
+    <Position X="4" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Delegate Name="MTDClasses.BoneYard.EmptyHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BoneYard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAIAAAAAAQAhAECAIAAAAAAAAAAAAEAAgAAAAAEAA=</HashCode>
+      <FileName>BoneYard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MTDClasses.Train">
+    <Position X="7.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAJCAAAAAAAAAIAECIAQAAQAAAAAAAoAgAAAAAAAAAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

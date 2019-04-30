@@ -1,0 +1,12 @@
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\CardClasses.dll
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\CardClasses.pdb
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\nunit.framework.dll
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\nunit.framework.testcasestorage.dll
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\nunit.framework.pdb
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\nunit.framework.xml
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\bin\Debug\nunit.framework.testcasestorage.pdb
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\obj\Debug\CardClasses.csprojAssemblyReference.cache
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CoreCompileInputs.cache
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\obj\Debug\CardClasses.csproj.CopyComplete
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\obj\Debug\CardClasses.dll
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\CardClasses\obj\Debug\CardClasses.pdb

@@ -1,0 +1,2 @@
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\cardConsoleTest\obj\Debug\cardConsoleTest.csprojAssemblyReference.cache
+E:\C# Term3\Labs\blackjack-catfood781\BlackJack\cardConsoleTest\obj\Debug\cardConsoleTest.csproj.CoreCompileInputs.cache
